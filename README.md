@@ -1,10 +1,10 @@
 
-Pseudo-It-Nextflow : A NextFlow port of the Pseudo-it project by 
-                     Brice Sarver ( https://github.com/bricesarver/pseudo-it ).
-                     Pseudo-it is an approach that "iteratively generates 
-                     pseudoreferences, incorporating sample-specific 
-                     variation and reducing mapping biases."
+### Pseudo-It-Nextflow : A NextFlow port of the Pseudo-it project
 
+Pseudo-it is a method developed by Brice Sarver( https://github.com/bricesarver/pseudo-it ).
+which generates a pseudoreference through a process of iterative mapping and reference calling
+steps.  This project was designed to run on the TTU clusters but could easily be generalized 
+for other environments.
 
 Run pseudo-it-nextflow.pl without any parameters to see documentation.
 
